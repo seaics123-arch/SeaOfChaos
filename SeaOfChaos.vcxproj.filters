@@ -18,5 +18,8 @@
     <ClInclude Include="Entity.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Coralblock.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
