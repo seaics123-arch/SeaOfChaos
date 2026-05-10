@@ -2,7 +2,7 @@
 #include <raylib.h>
 #include "entity.hpp"
 
-class Torpedo : public Entity {
+class Torpedo : public Entity { // Represents a torpedo fired by either the submarine or sea creatures
 public:
     Torpedo(Vector2 position, int speed);
     void Update() override;
@@ -11,5 +11,5 @@ public:
     bool IsOffScreen();
     bool active;
 private:
-    int speed;
+    int speed; // Positive = moves down (enemy torpedo), Negative = moves up (player torpedo)
 };
