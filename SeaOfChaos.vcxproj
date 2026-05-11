@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Bluewhale.hpp" />
     <ClInclude Include="Coralblock.hpp" />
     <ClInclude Include="Coralbunker.hpp" />
     <ClInclude Include="Entity.hpp" />
