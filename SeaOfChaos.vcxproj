@@ -129,6 +129,7 @@
     <ClInclude Include="Entity.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Bluewhale.cpp" />
     <ClCompile Include="Coralblock.cpp" />
     <ClCompile Include="Coralbunker.cpp" />
   </ItemGroup>
