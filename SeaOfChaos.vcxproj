@@ -133,6 +133,7 @@
     <ClCompile Include="Bluewhale.cpp" />
     <ClCompile Include="Coralblock.cpp" />
     <ClCompile Include="Coralbunker.cpp" />
+    <ClCompile Include="powerup.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
