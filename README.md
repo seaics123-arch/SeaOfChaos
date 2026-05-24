@@ -11,9 +11,9 @@ An underwater shooter game built in C++ where you control a submarine, fire torp
 Open `SeaOfChaos.sln` in Visual Studio and build the solution.
 
 ## Controls
-- WASD / Arrow Keys – Move submarine
+- Arrow Keys – Move submarine
 - Space – Fire torpedo
 
 ## Authors
 - Alesha Shahid
-- ANIS AHMAD
+- Anis Ahmad
